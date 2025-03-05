@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_FlashOn_18_N_2x" height="36" data-name="S_FlashOn_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><polygon data-cppathid="10000" points="12 2 26 2 18 14 28 14 8.9 36 8 36 14 20 6.25 20 12 2" class="fill"/></svg>

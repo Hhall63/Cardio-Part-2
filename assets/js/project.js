@@ -13497,7 +13497,7 @@ t:1268
 ,
 iph:[]
 ,
-oa:'si1557Ad,si1567Ad,si1601Ad',
+oa:'si1557Ad,si1601Ad,si1567Ad',
 brandingHeaderID:106098,
 slideBrandingData:'',
 v:false,
@@ -13561,10 +13561,6 @@ iid:[100835]
 ,
 qs:'',
 iph:{
-86762:{
-ts:'{"effect":15,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 82471:{
 ts:''
 }
@@ -13575,6 +13571,10 @@ ts:''
 ,
 53698:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+86762:{
+ts:'{"effect":15,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 86561:{
@@ -14138,7 +14138,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_SCALE","padding":{"top":0,"bottom":0,"left":4,"right":4},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{"grid-area":"1 / 1 / span 1 / span 1"},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":1.198076923076923}',
+widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIXED_HEIGHT","padding":{"right":5,"tablet":{"top":10,"right":5,"left":0,"bottom":10},"bottom":10,"mobile":{"top":10,"right":5,"left":0,"bottom":10},"top":10,"isDTMLinked":false,"left":0},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":1.18}',
 retainState:false,
 immo:false,
 apsn:'Slide59943',
@@ -14155,8 +14155,8 @@ t:1268
 ]
 ,
 containerType:'image',
-widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_SCALE","padding":{"top":0,"bottom":0,"left":4,"right":4},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{"grid-area":"1 / 1 / span 1 / span 1"},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":1.198076923076923}',
-option:'INTRODUCTION_SINGLE_IMAGE_OPTION_2',
+widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIXED_HEIGHT","padding":{"right":5,"tablet":{"top":10,"right":5,"left":0,"bottom":10},"bottom":10,"mobile":{"top":10,"right":5,"left":0,"bottom":10},"top":10,"isDTMLinked":false,"left":0},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":1.18}',
+option:'SINGLE_IMAGE_OPTION_ROW_C1',
 padding:{
 left:0,
 right:0,
@@ -14262,7 +14262,7 @@ dn:'si60164',
 visible:1,
 effectiveVi:1,
 JSONEffectData:false,
-bc:'#0b2828',
+bc:'#053f3f',
 fe:true,
 fca:1,
 fa:100,
@@ -14306,7 +14306,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":true,"slide-item-buttons":false,"card":false},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":10,"bottom":10,"left":10,"right":10},"alignment":{"slide-item-image":"CENTER","slide-item-caption":"LEFT","slide-item-subtitle":"LEFT","slide-item-buttons":"LEFT"},"canBeCard":true,"appearanceProperties":{"border":{"enabled":true,"color":"var(--c2)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":0,"bottomLeft":0,"bottomRight":0,"topRight":0}},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":0,"enabled":false,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"grid","gridTemplateColumns":"1fr 1fr","gridTemplateRows":"1fr auto","gridGap":"10px"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column"}},"childNodesCustomStyles":{"slide-item-buttons":{"all":{"gridArea":"2 / 1 / span 1 / span 2","marginLeft":"30px","align-items":"flex-end"},"tablet":{"marginLeft":"10px"},"mobile":{}}}}',
+widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":true,"slide-item-buttons":false,"card":true},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":30,"bottom":30,"left":30,"right":30},"alignment":{"slide-item-image":"LEFT","slide-item-caption":"LEFT","slide-item-subtitle":"LEFT","slide-item-buttons":"LEFT"},"canBeCard":true,"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":3},"cornerRadius":{"type":1,"value":{"topLeft":4,"bottomLeft":4,"bottomRight":4,"topRight":4}},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":false,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"grid","gridTemplateColumns":"1fr 1fr","gridTemplateRows":"auto 1fr","gridGap":"0 10px"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column"}},"childNodesCustomStyles":{"slide-item-buttons":{"all":{"gridArea":"2/ 2 / span 1 / span 1","align-items":"flex-start"},"tablet":{},"mobile":{}}}}',
 parentGroup:'si60164',
 retainState:false,
 immo:false,
@@ -14328,7 +14328,7 @@ t:1268
 ]
 ,
 containerType:'image-single-card',
-widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":true,"slide-item-buttons":false,"card":false},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":10,"bottom":10,"left":10,"right":10},"alignment":{"slide-item-image":"CENTER","slide-item-caption":"LEFT","slide-item-subtitle":"LEFT","slide-item-buttons":"LEFT"},"canBeCard":true,"appearanceProperties":{"border":{"enabled":true,"color":"var(--c2)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":0,"bottomLeft":0,"bottomRight":0,"topRight":0}},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":0,"enabled":false,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"grid","gridTemplateColumns":"1fr 1fr","gridTemplateRows":"1fr auto","gridGap":"10px"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column"}},"childNodesCustomStyles":{"slide-item-buttons":{"all":{"gridArea":"2 / 1 / span 1 / span 2","marginLeft":"30px","align-items":"flex-end"},"tablet":{"marginLeft":"10px"},"mobile":{}}}}',
+widgetProps:'{"visibilityInfo":{"slide-item-image":true,"slide-item-caption":true,"slide-item-subtitle":true,"slide-item-buttons":false,"card":true},"groupedItemsVisibility":{"slide-item-buttons":1},"padding":{"top":30,"bottom":30,"left":30,"right":30},"alignment":{"slide-item-image":"LEFT","slide-item-caption":"LEFT","slide-item-subtitle":"LEFT","slide-item-buttons":"LEFT"},"canBeCard":true,"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":3},"cornerRadius":{"type":1,"value":{"topLeft":4,"bottomLeft":4,"bottomRight":4,"topRight":4}},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":false,"color":"var(--c4)"}},"designOptionStyles":{"all":{"display":"grid","gridTemplateColumns":"1fr 1fr","gridTemplateRows":"auto 1fr","gridGap":"0 10px"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column"}},"childNodesCustomStyles":{"slide-item-buttons":{"all":{"gridArea":"2/ 2 / span 1 / span 1","align-items":"flex-start"},"tablet":{},"mobile":{}}}}',
 option:'',
 padding:{
 left:0,
@@ -14435,7 +14435,7 @@ dn:'si60158',
 visible:1,
 effectiveVi:1,
 JSONEffectData:false,
-bc:'var(--c1)',
+bc:'#0b2828',
 fe:true,
 fca:1,
 fa:100,
@@ -14474,7 +14474,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"imageFilterProps":{"blur":0,"brightness":0,"contrast":0},"appearanceProperties":{},"designOptionStyles":{"all":{"imageContainerStyles":{"minWidth":"100%","maxWidth":"100%","gridArea":"1 / 2 / span 1 / span 1"},"borderRadius":"50%","overflow":"hidden","aspectRatio":"1","width":"unset","margin":"0 auto"},"tablet":{"imageContainerStyles":{}},"mobile":{"imageContainerStyles":{}}},"imageProps":{"viewBox":{"width":1,"height":1,"x":0,"y":0}}}',
+widgetProps:'{"shouldRender":true,"imageFilterProps":{"blur":0,"brightness":0,"contrast":0},"appearanceProperties":{"shadow":{},"border":{}},"designOptionStyles":{"all":{"imageContainerStyles":{"gridArea":"1 / 1 / span 2 / span 1"},"borderRadius":"0 50% 50% 0","overflow":"hidden"},"tablet":{"borderRadius":"0"},"mobile":{"borderRadius":"0"}},"imageProps":{"viewBox":{"width":1,"height":1,"x":0,"y":0}}}',
 parentGroup:'si60158',
 retainState:false,
 immo:false,
@@ -14675,7 +14675,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"designOptionStyles":{"all":{"paddingLeft":"30px","paddingRight":"30px","paddingTop":"5%","paddingBottom":"5%","minWidth":"50%","justifyContent":"flex-end","gridArea":"1 / 1 / span 1 / span 1"},"tablet":{"paddingLeft":"10px","paddingRight":"10px"},"mobile":{"marginLeft":"0px"}}}',
+widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"designOptionStyles":{"all":{"justifyContent":"flex-end"},"tablet":{"paddingLeft":"0px"},"mobile":{"paddingLeft":"0px"}}}',
 parentGroup:'si60158',
 retainState:false,
 immo:false,
@@ -14697,7 +14697,7 @@ t:1250
 ]
 ,
 containerType:'single-image-text',
-widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"designOptionStyles":{"all":{"paddingLeft":"30px","paddingRight":"30px","paddingTop":"5%","paddingBottom":"5%","minWidth":"50%","justifyContent":"flex-end","gridArea":"1 / 1 / span 1 / span 1"},"tablet":{"paddingLeft":"10px","paddingRight":"10px"},"mobile":{"marginLeft":"0px"}}}',
+widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"designOptionStyles":{"all":{"justifyContent":"flex-end"},"tablet":{"paddingLeft":"0px"},"mobile":{"paddingLeft":"0px"}}}',
 option:'',
 padding:{
 left:0,
@@ -14848,7 +14848,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{"align-items":"start"},"tablet":{},"mobile":{}}}',
 parentGroup:'si60101',
 retainState:false,
 immo:false,
@@ -14873,7 +14873,7 @@ efva:[]
 eflh:[60077],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"3nvgh","text":"Common Cardiac Emergencies","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"borderBottomStyle:none"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"textShadowBlur:8px"},{"offset":0,"length":26,"style":"mobile-fontSize:20"},{"offset":0,"length":26,"style":"overridden:false"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"fontStyle:normal"},{"offset":0,"length":26,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":26,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":26,"style":"fontWeight:400"},{"offset":0,"length":26,"style":"textOutlineEnable:false"},{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"defaultTextShadow:none"},{"offset":0,"length":26,"style":"fontFamily:Archivo"},{"offset":0,"length":26,"style":"textShadow:none"},{"offset":0,"length":26,"style":"tablet-fontSize:25"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"fontStretch:normal"},{"offset":0,"length":26,"style":"fontType:regular"},{"offset":0,"length":26,"style":"color:#ffffff"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"textShadowY:4px"},{"offset":0,"length":26,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":26,"style":"lineHeight:135%"},{"offset":0,"length":26,"style":"letterSpacing:0%"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textTransform:none"},{"offset":0,"length":26,"style":"textShadowOpacity:none"},{"offset":0,"length":26,"style":"textDecoration:none"},{"offset":0,"length":26,"style":"desktop-fontSize:30"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-5","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"3nvgh","text":"Common Cardiac Emergencies","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"defaultTextShadow:none"},{"offset":0,"length":26,"style":"fontFamily:Archivo"},{"offset":0,"length":26,"style":"textShadow:none"},{"offset":0,"length":26,"style":"tablet-fontSize:25"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"fontStretch:normal"},{"offset":0,"length":26,"style":"fontType:regular"},{"offset":0,"length":26,"style":"color:#ffffff"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"textShadowY:4px"},{"offset":0,"length":26,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":26,"style":"lineHeight:135%"},{"offset":0,"length":26,"style":"letterSpacing:0%"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textTransform:none"},{"offset":0,"length":26,"style":"textShadowOpacity:none"},{"offset":0,"length":26,"style":"textDecoration:none"},{"offset":0,"length":26,"style":"desktop-fontSize:30"},{"offset":0,"length":26,"style":"borderBottomStyle:none"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"textShadowBlur:8px"},{"offset":0,"length":26,"style":"mobile-fontSize:20"},{"offset":0,"length":26,"style":"overridden:false"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"fontStyle:normal"},{"offset":0,"length":26,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":26,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":26,"style":"fontWeight:400"},{"offset":0,"length":26,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -15011,11 +15011,11 @@ slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
 presetType:1,
-isOverridden:false
+isOverridden:true
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{"marginTop":"50px"},"tablet":{"marginTop":"0px"},"mobile":{"marginTop":"0px"}}}',
 parentGroup:'si60101',
 retainState:false,
 immo:false,
@@ -15039,7 +15039,7 @@ efva:[]
 eflh:[60087],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"44ebo","text":"To-date, this month alone, approx 15% of our medical calls were dispatched as chest pains. However, we all know that an sickcall could turn out to be cardiac related and vice-versa.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":181,"style":"opacity:1"},{"offset":0,"length":181,"style":"hlnke:true"},{"offset":0,"length":181,"style":"backgroundColor:unset"},{"offset":0,"length":181,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":181,"style":"textHighlightEnable:false"},{"offset":0,"length":181,"style":"textShadowEnable:false"},{"offset":0,"length":181,"style":"overridden:false"},{"offset":0,"length":181,"style":"hlnk:"},{"offset":0,"length":181,"style":"hlnkt:wp"},{"offset":0,"length":181,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"44ebo","text":"To-date, this month alone, approx 15% of our medical calls were dispatched as chest pains. However, we all know that an sickcall could turn out to be cardiac related and vice-versa.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":181,"style":"hlnke:true"},{"offset":0,"length":181,"style":"defaultTextShadow:none"},{"offset":0,"length":181,"style":"backgroundColor:unset"},{"offset":0,"length":181,"style":"WebkitTextStrokeColor:#00bbff"},{"offset":0,"length":181,"style":"defaultTextStrokeColor:#00bbff"},{"offset":0,"length":181,"style":"textShadowX:0px"},{"offset":0,"length":181,"style":"fontStretch:normal"},{"offset":0,"length":181,"style":"fontType:regular"},{"offset":0,"length":181,"style":"color:#ffffff"},{"offset":0,"length":181,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":181,"style":"textShadowY:4px"},{"offset":0,"length":181,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":181,"style":"lineHeight:135%"},{"offset":0,"length":181,"style":"letterSpacing:0%"},{"offset":0,"length":181,"style":"textHighlightEnable:false"},{"offset":0,"length":181,"style":"textTransform:none"},{"offset":0,"length":181,"style":"textShadowOpacity:none"},{"offset":0,"length":181,"style":"overridden:true"},{"offset":0,"length":181,"style":"textDecoration:none"},{"offset":0,"length":181,"style":"desktop-fontSize:30"},{"offset":0,"length":181,"style":"fontFamily:Georgia"},{"offset":0,"length":181,"style":"borderBottomStyle:none"},{"offset":0,"length":181,"style":"textShadowEnable:false"},{"offset":0,"length":181,"style":"hlnk:"},{"offset":0,"length":181,"style":"fontWeight:normal"},{"offset":0,"length":181,"style":"textShadowBlur:8px"},{"offset":0,"length":181,"style":"mobile-fontSize:20"},{"offset":0,"length":181,"style":"textShadow:none"},{"offset":0,"length":181,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":181,"style":"hlnkt:wp"},{"offset":0,"length":181,"style":"fontStyle:normal"},{"offset":0,"length":181,"style":"tablet-fontSize:20"},{"offset":0,"length":181,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":181,"style":"textOutlineEnable:false"},{"offset":0,"length":181,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"aamae","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"83vm3","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"97kc4","text":"Scope of practice note:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":23,"style":"tablet-fontSize:20"},{"offset":0,"length":23,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"textOutlineEnable:false"},{"offset":0,"length":23,"style":"opacity:1"},{"offset":0,"length":23,"style":"hlnke:true"},{"offset":0,"length":23,"style":"defaultTextShadow:none"},{"offset":0,"length":23,"style":"backgroundColor:unset"},{"offset":0,"length":23,"style":"WebkitTextStrokeColor:#00bbff"},{"offset":0,"length":23,"style":"defaultTextStrokeColor:#00bbff"},{"offset":0,"length":23,"style":"textShadowX:0px"},{"offset":0,"length":23,"style":"fontStretch:normal"},{"offset":0,"length":23,"style":"fontType:regular"},{"offset":0,"length":23,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":23,"style":"textShadowY:4px"},{"offset":0,"length":23,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":23,"style":"lineHeight:135%"},{"offset":0,"length":23,"style":"letterSpacing:0%"},{"offset":0,"length":23,"style":"textHighlightEnable:false"},{"offset":0,"length":23,"style":"textTransform:none"},{"offset":0,"length":23,"style":"color:#e7075c"},{"offset":0,"length":23,"style":"textShadowOpacity:none"},{"offset":0,"length":23,"style":"overridden:true"},{"offset":0,"length":23,"style":"textDecoration:none"},{"offset":0,"length":23,"style":"desktop-fontSize:30"},{"offset":0,"length":23,"style":"fontFamily:Georgia"},{"offset":0,"length":23,"style":"borderBottomStyle:none"},{"offset":0,"length":23,"style":"textShadowEnable:false"},{"offset":0,"length":23,"style":"hlnk:"},{"offset":0,"length":23,"style":"fontWeight:normal"},{"offset":0,"length":23,"style":"textShadowBlur:8px"},{"offset":0,"length":23,"style":"mobile-fontSize:20"},{"offset":0,"length":23,"style":"textShadow:none"},{"offset":0,"length":23,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"hlnkt:wp"},{"offset":0,"length":23,"style":"fontStyle:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"e34ra","text":"We understand that these conditions and treatments are limited at the EMT level. Therefore, this course is covering the foundational level of EMT cardiology. This variety of information allows our ~600 students a chance to learn new information.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":245,"style":"mobile-fontSize:20"},{"offset":0,"length":245,"style":"textShadow:none"},{"offset":0,"length":245,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":245,"style":"hlnkt:wp"},{"offset":0,"length":245,"style":"fontStyle:normal"},{"offset":0,"length":245,"style":"tablet-fontSize:20"},{"offset":0,"length":245,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":245,"style":"textOutlineEnable:false"},{"offset":0,"length":245,"style":"opacity:1"},{"offset":0,"length":245,"style":"hlnke:true"},{"offset":0,"length":245,"style":"defaultTextShadow:none"},{"offset":0,"length":245,"style":"backgroundColor:unset"},{"offset":0,"length":245,"style":"WebkitTextStrokeColor:#00bbff"},{"offset":0,"length":245,"style":"defaultTextStrokeColor:#00bbff"},{"offset":0,"length":245,"style":"textShadowX:0px"},{"offset":0,"length":245,"style":"fontStretch:normal"},{"offset":0,"length":245,"style":"fontType:regular"},{"offset":0,"length":245,"style":"color:#ffffff"},{"offset":0,"length":245,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":245,"style":"textShadowY:4px"},{"offset":0,"length":245,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":245,"style":"lineHeight:135%"},{"offset":0,"length":245,"style":"letterSpacing:0%"},{"offset":0,"length":245,"style":"textHighlightEnable:false"},{"offset":0,"length":245,"style":"textTransform:none"},{"offset":0,"length":245,"style":"textShadowOpacity:none"},{"offset":0,"length":245,"style":"overridden:true"},{"offset":0,"length":245,"style":"textDecoration:none"},{"offset":0,"length":245,"style":"desktop-fontSize:30"},{"offset":0,"length":245,"style":"fontFamily:Georgia"},{"offset":0,"length":245,"style":"borderBottomStyle:none"},{"offset":0,"length":245,"style":"textShadowEnable:false"},{"offset":0,"length":245,"style":"hlnk:"},{"offset":0,"length":245,"style":"fontWeight:normal"},{"offset":0,"length":245,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"2qaoe","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"3c1jh","text":"The overall goal of the information presented is to enhance your assessment capabilities, especially when it comes to identifying cardiac chest pain.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":149,"style":"hlnk:"},{"offset":0,"length":149,"style":"fontWeight:normal"},{"offset":0,"length":149,"style":"textShadowBlur:8px"},{"offset":0,"length":149,"style":"mobile-fontSize:20"},{"offset":0,"length":149,"style":"textShadow:none"},{"offset":0,"length":149,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":149,"style":"hlnkt:wp"},{"offset":0,"length":149,"style":"fontStyle:normal"},{"offset":0,"length":149,"style":"tablet-fontSize:20"},{"offset":0,"length":149,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":149,"style":"textOutlineEnable:false"},{"offset":0,"length":149,"style":"opacity:1"},{"offset":0,"length":149,"style":"hlnke:true"},{"offset":0,"length":149,"style":"defaultTextShadow:none"},{"offset":0,"length":149,"style":"backgroundColor:unset"},{"offset":0,"length":149,"style":"WebkitTextStrokeColor:#00bbff"},{"offset":0,"length":149,"style":"defaultTextStrokeColor:#00bbff"},{"offset":0,"length":149,"style":"textShadowX:0px"},{"offset":0,"length":149,"style":"fontStretch:normal"},{"offset":0,"length":149,"style":"fontType:regular"},{"offset":0,"length":149,"style":"color:#ffffff"},{"offset":0,"length":149,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":149,"style":"textShadowY:4px"},{"offset":0,"length":149,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":149,"style":"lineHeight:135%"},{"offset":0,"length":149,"style":"letterSpacing:0%"},{"offset":0,"length":149,"style":"textHighlightEnable:false"},{"offset":0,"length":149,"style":"textTransform:none"},{"offset":0,"length":149,"style":"textShadowOpacity:none"},{"offset":0,"length":149,"style":"overridden:true"},{"offset":0,"length":149,"style":"textDecoration:none"},{"offset":0,"length":149,"style":"desktop-fontSize:30"},{"offset":0,"length":149,"style":"fontFamily:Georgia"},{"offset":0,"length":149,"style":"borderBottomStyle:none"},{"offset":0,"length":149,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -15065,7 +15065,7 @@ b:[0,0,1,1],
 fh:false,
 fw:false,
 uid:60095,
-iso:false,
+iso:true,
 css:{
 430:{
 l:'0.000%',
@@ -16999,11 +16999,11 @@ iid:[82506]
 ,
 qs:'',
 iph:{
-70439:{
+70461:{
 ts:''
 }
 ,
-70461:{
+70439:{
 ts:''
 }
 ,
@@ -37663,11 +37663,11 @@ iph:{
 ts:''
 }
 ,
-69592:{
+87723:{
 ts:''
 }
 ,
-87723:{
+69592:{
 ts:''
 }
 ,
@@ -40170,12 +40170,12 @@ iid:[100897]
 ,
 qs:'',
 iph:{
-89067:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 89045:{
 ts:''
+}
+,
+89067:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 100908:{
@@ -66174,12 +66174,12 @@ iid:[106376]
 ,
 qs:'',
 iph:{
-106190:{
-ts:''
-}
-,
 106212:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+106190:{
+ts:''
 }
 ,
 106387:{
@@ -80301,11 +80301,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-102954:{
+102973:{
 ts:''
 }
 ,
-102973:{
+102954:{
 ts:''
 }
 
@@ -93338,12 +93338,12 @@ iid:[106621]
 ,
 qs:'',
 iph:{
-106435:{
-ts:''
-}
-,
 106457:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+106435:{
+ts:''
 }
 ,
 106632:{
@@ -95842,12 +95842,12 @@ iid:[106827]
 ,
 qs:'',
 iph:{
-106641:{
-ts:''
-}
-,
 106663:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+106641:{
+ts:''
 }
 ,
 106838:{
@@ -109120,11 +109120,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-103901:{
+103920:{
 ts:''
 }
 ,
-103920:{
+103901:{
 ts:''
 }
 
@@ -132144,12 +132144,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-86607:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 69578:{
 ts:'{"effect":10,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+86607:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -135616,12 +135616,12 @@ iid:[105242]
 ,
 qs:'',
 iph:{
-69690:{
-ts:''
-}
-,
 69613:{
 ts:'{"effect":7,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+69690:{
+ts:''
 }
 ,
 105253:{
@@ -147450,8 +147450,16 @@ iid:[106861]
 ,
 qs:'',
 iph:{
-86813:{
-ts:'{"effect":10,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+105618:{
+ts:''
+}
+,
+105632:{
+ts:''
+}
+,
+105626:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 105592:{
@@ -147482,16 +147490,8 @@ ts:'{"effect":9,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 ts:''
 }
 ,
-105618:{
-ts:''
-}
-,
-105632:{
-ts:''
-}
-,
-105626:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+86813:{
+ts:'{"effect":10,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 106882:{
@@ -153679,12 +153679,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-97675:{
-ts:'{"effect":11,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 97656:{
 ts:''
+}
+,
+97675:{
+ts:'{"effect":11,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -169652,11 +169652,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-98703:{
+98684:{
 ts:''
 }
 ,
-98684:{
+98703:{
 ts:''
 }
 
@@ -200245,7 +200245,7 @@ enableNavigation:true,
 tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":408,"isQuizSlide":false,"label":"Welcome","slideVisited":false,"type":"slide","id":"Slide408"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1301,"isQuizSlide":false,"label":"Objective","slideVisited":false,"type":"slide","id":"Slide1301"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":59943,"isQuizSlide":false,"label":"Objective 1 Intro","slideVisited":false,"type":"slide","id":"Slide59943"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":72427,"isQuizSlide":false,"label":"Angina","slideVisited":false,"type":"slide","id":"Slide72427"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":60230,"isQuizSlide":false,"label":"Angina Facts","slideVisited":false,"type":"slide","id":"Slide60230"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":87746,"isQuizSlide":false,"label":"Atherosclerosis _ Coronary Artery Desease","slideVisited":false,"type":"slide","id":"Slide87746"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":100910,"isQuizSlide":false,"label":"Common Terms","slideVisited":false,"type":"slide","id":"Slide100910"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":82937,"isQuizSlide":true,"label":"Anginia KC 1","slideVisited":false,"type":"slide","id":"Slide82937"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":83603,"isQuizSlide":true,"label":"Anginia KC 2","slideVisited":false,"type":"slide","id":"Slide83603"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":89229,"isQuizSlide":true,"label":"Atherosclerosis KC 1","slideVisited":false,"type":"slide","id":"Slide89229"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":89577,"isQuizSlide":false,"label":"Acute Coronary Intro","slideVisited":false,"type":"slide","id":"Slide89577"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":89931,"isQuizSlide":false,"label":"ACS _ MI Facts","slideVisited":false,"type":"slide","id":"Slide89931"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":90370,"isQuizSlide":true,"label":"ACS KC 1","slideVisited":false,"type":"slide","id":"Slide90370"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":90688,"isQuizSlide":true,"label":"ACS KC 2","slideVisited":false,"type":"slide","id":"Slide90688"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":91795,"isQuizSlide":false,"label":"AAA Intro","slideVisited":false,"type":"slide","id":"Slide91795"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":103024,"isQuizSlide":false,"label":"AAA Video","slideVisited":false,"type":"slide","id":"Slide103024"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":91911,"isQuizSlide":false,"label":"AAA repair","slideVisited":false,"type":"slide","id":"Slide91911"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":92961,"isQuizSlide":false,"label":"CHF","slideVisited":false,"type":"slide","id":"Slide92961"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":93031,"isQuizSlide":true,"label":"AAA KC 1","slideVisited":false,"type":"slide","id":"Slide93031"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":104308,"isQuizSlide":true,"label":"AAA KC 2","slideVisited":false,"type":"slide","id":"Slide104308"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":104658,"isQuizSlide":true,"label":"CHF KC-1","slideVisited":false,"type":"slide","id":"Slide104658"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":105008,"isQuizSlide":true,"label":"CHF KC-2","slideVisited":false,"type":"slide","id":"Slide105008"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":9736,"isQuizSlide":false,"label":"Objective 1 Conclusion","slideVisited":false,"type":"slide","id":"Slide9736"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10134,"isQuizSlide":false,"label":"Objective 2","slideVisited":false,"type":"slide","id":"Slide10134"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":69022,"isQuizSlide":true,"label":"Patient Priority KC","slideVisited":false,"type":"slide","id":"Slide69022"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":18898,"isQuizSlide":false,"label":"Module 2_Let’s Move On","slideVisited":false,"type":"slide","id":"Slide18898"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20452,"isQuizSlide":false,"label":"Objective 3 Intro","slideVisited":false,"type":"slide","id":"Slide20452"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":97246,"isQuizSlide":false,"label":"Oxygen","slideVisited":false,"type":"slide","id":"Slide97246"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":97676,"isQuizSlide":false,"label":"ASA","slideVisited":false,"type":"slide","id":"Slide97676"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":97746,"isQuizSlide":false,"label":"NTG","slideVisited":false,"type":"slide","id":"Slide97746"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":98704,"isQuizSlide":false,"label":"Protocol Review","slideVisited":false,"type":"slide","id":"Slide98704"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":98840,"isQuizSlide":true,"label":"Oxygen KC 1","slideVisited":false,"type":"slide","id":"Slide98840"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":99483,"isQuizSlide":true,"label":"NTG KC 1","slideVisited":false,"type":"slide","id":"Slide99483"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":99484,"isQuizSlide":true,"label":"ASA KC 1","slideVisited":false,"type":"slide","id":"Slide99484"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30851,"isQuizSlide":false,"label":"Course Exit","slideVisited":false,"type":"slide","id":"Slide30851"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":10135,"isQuizSlide":true,"label":"Result 2","slideVisited":false,"type":"slide","id":"Slide10135"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":false,"isPlaybarControlsTOCEnabled":false,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":true,"isPlaybarControlsMuteEnabled":false,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
-usedFonts:'["Archivo","Georgia","Arial"]'
+usedFonts:'["Archivo","Arial","Georgia"]'
 },
 trecs:[{
 link:408,
@@ -201101,7 +201101,7 @@ resources:['dr/0472.svg','dr/061479.svg','dr/061482.svg','dr/075072.svg','dr/080
 ,{
 slideID:2,
 ResourceList:{
-resources:['dr/0472.svg','dr/061479.svg','dr/061482.svg','dr/075072.svg','dr/086846.jpg']
+resources:['dr/0472.svg','dr/061479.svg','dr/061482.svg','dr/075072.svg','dr/086846.jpg','dr/088210.svg']
 }
 
 }
